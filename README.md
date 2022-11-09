@@ -19,29 +19,12 @@
 首先，建立系统的滞回模型往往需要基于实验模型。然后再进行适当的简化。  
 根据滞回模型的研究发展现状，可以将滞回模型大致分为两类：分段直线型滞回模型和曲线滞回模型。
 
-![](https://github.com/2068934868/image/blob/ba0e83858213919c21928f2f7a68bc70a8a1dd01/%E6%BB%9E%E5%9B%9E%E6%A8%A1%E5%9E%8B%E5%88%86%E7%B1%BB.png)
+<div align="center">
+<img src="https://github.com/2068934868/image/blob/ba0e83858213919c21928f2f7a68bc70a8a1dd01/%E6%BB%9E%E5%9B%9E%E6%A8%A1%E5%9E%8B%E5%88%86%E7%B1%BB.png">
+</div>
 
 # 3.滞回曲线相关知识
-
 -   钢筋混凝土的滞回曲线为“荷载-位移”曲线。
 -   采用低周反复循环的静力加载试验方法研究钢筋混凝土构件的滞回曲线。
 -   施加荷载通常为：先施加轴向力N，并维持恒定，然后按等增量施加往复作用的横向力P；当结构（钢筋）屈服后，改为由正、负向变形（位移）增量控制横向加载，直至构件破坏并丧失承载力。
 
-钢支撑滞回曲线：
-
-\[1\]
-
-刘庆志, 赵作周, 陆新征, 等. 钢支撑滞回曲线的模拟方法\[J/OL\]. 建筑结构, 2011, 41(08): 63-67+39. [https://doi.org/10.19701/j.jzjg.2011.08.013](https://doi.org/10.19701/j.jzjg.2011.08.013).
-
-如下所示：
-
-[钢支撑滞回特性](zotero://note/u/Y347HM4E/)
-
-> **Linked Note:**
-> 
-> 钢支撑滞回特性
-> 
-> ![image](attachments/AX2ZP835.png) ([pdf](zotero://open-pdf/library/items/KEZ9YH7P?page=2&annotation=LKKZWL32))  
-> ([刘 等, 2011, p. 2](zotero://select/library/items/6MBC2EWD))
-> 
-> Referred in [滞回](zotero://note/u/QY4JVT3I/?ignore=1&line=-1)
